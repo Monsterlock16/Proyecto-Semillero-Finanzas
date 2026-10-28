@@ -1,0 +1,40 @@
+{
+    "suscripciones": [
+        {
+            "nombre": "Spotify",
+            "valor": 19900,
+            "dia_cobro": 30,
+            "activa": true
+        },
+        {
+            "nombre": "Netflix",
+            "valor": 24900,
+            "dia_cobro": 15,
+            "activa": false
+        },
+        {
+            "nombre": "Dropbox",
+            "valor": 11900,
+            "dia_cobro": 20,
+            "activa": true
+        }
+    ],
+    "gastos": [
+        {
+            "categoria": "Alimentación",
+            "descripcion": "Mercado del mes",
+            "valor": 64000
+        },
+        {
+            "categoria": "Transporte",
+            "descripcion": "Transmilenio",
+            "valor": 48000
+        },
+        {
+            "categoria": "Otros",
+            "descripcion": "Salidas",
+            "valor": 64000
+        }
+    ],
+    "dias_alerta": 3
+}
